@@ -1,0 +1,19 @@
+{
+    "name": "jambotec/jambohack",
+    "description": "A Framework to create applications using Hack Language.",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Andrew Pacifico",
+            "email": "andrewcpacifico@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "JamboTec\\JamboHack\\": "src/JamboTec/JamboHack/"
+        }
+    }
+}
